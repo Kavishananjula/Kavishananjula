@@ -216,12 +216,18 @@ PROJECT_LINK_4 = https://github.com/Kavishananjula/your-project-4
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kavishananjula&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CFFF&icon_color=00CFFF&text_color=ffffff&cache_seconds=1800" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Kavishananjula&theme=tokyonight&hide_border=true&background=0D1117&ring=00CFFF&fire=00CFFF&currStreakLabel=00CFFF" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kavishananjula&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CFFF&icon_color=00CFFF&text_color=ffffff" />
+</a>
+<a href="https://git.io/streak-stats">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kavishananjula&theme=tokyonight&hide_border=true&background=0D1117&ring=00CFFF&fire=00CFFF&currStreakLabel=00CFFF" />
+</a>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavishananjula&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CFFF&text_color=ffffff&langs_count=8&cache_seconds=1800" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kavishananjula&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CFFF&text_color=ffffff&langs_count=8" />
+</a>
 
 </div>
 
@@ -232,7 +238,7 @@ PROJECT_LINK_4 = https://github.com/Kavishananjula/your-project-4
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kavishananjula&theme=tokyonight&no-frame=true&margin-w=15&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kavishananjula&theme=onedark&no-frame=false&no-bg=true&margin-w=4&row=1&column=7" />
 </a>
 
 </div>
@@ -253,10 +259,9 @@ PROJECT_LINK_4 = https://github.com/Kavishananjula/your-project-4
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Kavishananjula/Kavishananjula/output/github-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/Kavishananjula/Kavishananjula/output/github-snake-dark.svg" alt="snake gif" />
 
 </div>
-
 ---
 
 ## 🎯 Current Focus
