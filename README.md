@@ -124,23 +124,28 @@ PROJECT_LINK_4 = https://github.com/Kavishananjula/your-project-4
 
 ## 🌟 Featured Projects
 
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-<a href="PROJECT_LINK_1">
-  <img src="https://raw.githubusercontent.com/Kavishananjula/Kavishananjula/main/assets/projects/isurueats.png" width="100%" alt="IsuruEats"/>
-</a>
+<img src="https://raw.githubusercontent.com/Kavishananjula/Kavishananjula/main/assets/projects/isurueats.png" width="100%" height="220" style="object-fit: cover;" alt="IsuruEats"/>
 
-### 🍽️ IsuruEats
+<h3>🍽️ IsuruEats</h3>
+
 **Restaurant Ordering Platform**
+
+<p align="left">
 
 ✨ Online Ordering System  
 ✨ Admin Dashboard  
 ✨ Restaurant Management  
 ✨ Modern Responsive UI  
 
+</p>
+
 `Laravel` `MySQL` `Bootstrap` `JS`
+
+<br/>
 
 <a href="PROJECT_LINK_1">
   <img src="https://img.shields.io/badge/Live_Demo-00CFFF?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -150,21 +155,26 @@ PROJECT_LINK_4 = https://github.com/Kavishananjula/your-project-4
 </a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-<a href="PROJECT_LINK_2">
-  <img src="https://raw.githubusercontent.com/Kavishananjula/Kavishananjula/main/assets/projects/luxury-srilanka.png" width="100%" alt="Luxury Sri Lanka"/>
-</a>
+<img src="https://raw.githubusercontent.com/Kavishananjula/Kavishananjula/main/assets/projects/luxury-srilanka.png" width="100%" height="220" style="object-fit: cover;" alt="Luxury Sri Lanka"/>
 
-### 🌴 Luxury Sri Lanka
+<h3>🌴 Luxury Sri Lanka</h3>
+
 **Luxury Travel Website**
+
+<p align="left">
 
 ✨ Premium UI Design  
 ✨ Hotel Booking Features  
 ✨ Tour Packages  
 ✨ Interactive Experience  
 
+</p>
+
 `PHP` `MySQL` `CSS3` `JS`
+
+<br/>
 
 <a href="PROJECT_LINK_2">
   <img src="https://img.shields.io/badge/Live_Demo-00CFFF?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -177,21 +187,26 @@ PROJECT_LINK_4 = https://github.com/Kavishananjula/your-project-4
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-<a href="PROJECT_LINK_3">
-  <img src="https://raw.githubusercontent.com/Kavishananjula/Kavishananjula/main/assets/projects/wildtrack-safari.png" width="100%" alt="WildTrack Safari"/>
-</a>
+<img src="https://raw.githubusercontent.com/Kavishananjula/Kavishananjula/main/assets/projects/wildtrack-safari.png" width="100%" height="220" style="object-fit: cover;" alt="WildTrack Safari"/>
 
-### 🦁 WildTrack Safari
+<h3>🦁 WildTrack Safari</h3>
+
 **Safari Booking Platform**
+
+<p align="left">
 
 ✨ Safari Packages  
 ✨ Wildlife Tour Booking  
 ✨ Reservation System  
 ✨ Responsive Layout  
 
+</p>
+
 `WordPress` `PHP` `MySQL` `CSS3`
+
+<br/>
 
 <a href="PROJECT_LINK_3">
   <img src="https://img.shields.io/badge/Live_Demo-00CFFF?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -201,21 +216,26 @@ PROJECT_LINK_4 = https://github.com/Kavishananjula/your-project-4
 </a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-<a href="PROJECT_LINK_4">
-  <img src="https://raw.githubusercontent.com/Kavishananjula/Kavishananjula/main/assets/projects/portfolio.png" width="100%" alt="Personal Portfolio"/>
-</a>
+<img src="https://raw.githubusercontent.com/Kavishananjula/Kavishananjula/main/assets/projects/portfolio.png" width="100%" height="220" style="object-fit: cover;" alt="Personal Portfolio"/>
 
-### 💼 Personal Portfolio
+<h3>💼 Personal Portfolio</h3>
+
 **Professional Portfolio Website**
+
+<p align="left">
 
 ✨ Modern UI Design  
 ✨ Responsive Layout  
 ✨ Project Showcase  
 ✨ Contact Integration  
 
+</p>
+
 `React` `JavaScript` `CSS3` `Figma`
+
+<br/>
 
 <a href="PROJECT_LINK_4">
   <img src="https://img.shields.io/badge/Live_Demo-00CFFF?style=for-the-badge&logo=vercel&logoColor=white" />
