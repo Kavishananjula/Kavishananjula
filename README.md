@@ -28,7 +28,7 @@ PROJECT_LINK_4 = https://github.com/Kavishananjula/your-project-4
 <a href="YOUR_LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="kavishananjula@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="YOUR_PORTFOLIO">
@@ -216,18 +216,32 @@ PROJECT_LINK_4 = https://github.com/Kavishananjula/your-project-4
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kavishananjula&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CFFF&icon_color=00CFFF&text_color=ffffff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kavishananjula&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CFFF&icon_color=00CFFF&text_color=ffffff&cache_seconds=1800" />
 <img width="49%" src="https://streak-stats.demolab.com?user=Kavishananjula&theme=tokyonight&hide_border=true&background=0D1117&ring=00CFFF&fire=00CFFF&currStreakLabel=00CFFF" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavishananjula&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CFFF&text_color=ffffff" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavishananjula&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CFFF&text_color=ffffff&langs_count=8&cache_seconds=1800" />
 
-<br/><br/>
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kavishananjula&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12" />
+---
 
-<br/><br/>
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kavishananjula&theme=tokyonight&no-frame=true&margin-w=15&column=7" />
+</a>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kavishananjula&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00CFFF&line=00CFFF&point=FFFFFF&area=true&area_color=00CFFF" />
 
@@ -239,11 +253,7 @@ PROJECT_LINK_4 = https://github.com/Kavishananjula/your-project-4
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kavishananjula/Kavishananjula/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kavishananjula/Kavishananjula/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Kavishananjula/Kavishananjula/output/github-snake-dark.svg" />
-</picture>
+![Snake animation](https://raw.githubusercontent.com/Kavishananjula/Kavishananjula/output/github-snake-dark.svg)
 
 </div>
 
