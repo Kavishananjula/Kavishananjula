@@ -130,37 +130,49 @@ PROJECT_LINK_4 = https://github.com/Kavishananjula/your-project-4
 <tr>
 <td width="50%" valign="top">
 
+<a href="PROJECT_LINK_1">
+  <img src="https://raw.githubusercontent.com/Kavishananjula/Kavishananjula/main/assets/projects/isurueats.png" width="100%" alt="IsuruEats"/>
+</a>
+
 ### 🍽️ IsuruEats
-**Restaurant Ordering Platform with Admin Dashboard**
+**Restaurant Ordering Platform**
 
-- Online Ordering System  
-- Restaurant Management  
-- Admin Dashboard  
-- Modern Responsive UI  
+✨ Online Ordering System  
+✨ Admin Dashboard  
+✨ Restaurant Management  
+✨ Modern Responsive UI  
 
-**Tech:**  
-`Laravel` `MySQL` `Bootstrap` `JavaScript`
+`Laravel` `MySQL` `Bootstrap` `JS`
 
 <a href="PROJECT_LINK_1">
-  <img src="https://img.shields.io/badge/View_Project-00CFFF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Live_Demo-00CFFF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="PROJECT_LINK_1">
+  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
+<a href="PROJECT_LINK_2">
+  <img src="https://raw.githubusercontent.com/Kavishananjula/Kavishananjula/main/assets/projects/luxury-srilanka.png" width="100%" alt="Luxury Sri Lanka"/>
+</a>
+
 ### 🌴 Luxury Sri Lanka
-**Luxury Travel & Tourism Website**
+**Luxury Travel Website**
 
-- Premium UI Design  
-- Hotel Booking Features  
-- Tour Packages  
-- Interactive User Experience  
+✨ Premium UI Design  
+✨ Hotel Booking Features  
+✨ Tour Packages  
+✨ Interactive Experience  
 
-**Tech:**  
-`PHP` `MySQL` `CSS3` `JavaScript`
+`PHP` `MySQL` `CSS3` `JS`
 
 <a href="PROJECT_LINK_2">
-  <img src="https://img.shields.io/badge/View_Project-00CFFF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Live_Demo-00CFFF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="PROJECT_LINK_2">
+  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -169,43 +181,54 @@ PROJECT_LINK_4 = https://github.com/Kavishananjula/your-project-4
 <tr>
 <td width="50%" valign="top">
 
+<a href="PROJECT_LINK_3">
+  <img src="https://raw.githubusercontent.com/Kavishananjula/Kavishananjula/main/assets/projects/wildtrack-safari.png" width="100%" alt="WildTrack Safari"/>
+</a>
+
 ### 🦁 WildTrack Safari
 **Safari Booking Platform**
 
-- Safari Packages  
-- Wildlife Tour Booking  
-- Inquiry / Reservation Flow  
-- Responsive Layout  
+✨ Safari Packages  
+✨ Wildlife Tour Booking  
+✨ Reservation System  
+✨ Responsive Layout  
 
-**Tech:**  
 `WordPress` `PHP` `MySQL` `CSS3`
 
 <a href="PROJECT_LINK_3">
-  <img src="https://img.shields.io/badge/View_Project-00CFFF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Live_Demo-00CFFF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="PROJECT_LINK_3">
+  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
+<a href="PROJECT_LINK_4">
+  <img src="https://raw.githubusercontent.com/Kavishananjula/Kavishananjula/main/assets/projects/portfolio.png" width="100%" alt="Personal Portfolio"/>
+</a>
+
 ### 💼 Personal Portfolio
 **Professional Portfolio Website**
 
-- Modern UI Design  
-- Responsive Layout  
-- Project Showcase  
-- Contact Section  
+✨ Modern UI Design  
+✨ Responsive Layout  
+✨ Project Showcase  
+✨ Contact Integration  
 
-**Tech:**  
 `React` `JavaScript` `CSS3` `Figma`
 
 <a href="PROJECT_LINK_4">
-  <img src="https://img.shields.io/badge/View_Project-00CFFF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Live_Demo-00CFFF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="PROJECT_LINK_4">
+  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## 📊 GitHub Insights
