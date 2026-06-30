@@ -232,13 +232,18 @@ PROJECT_LINK_4 = https://github.com/Kavishananjula/your-project-4
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kavishananjula&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kavishananjula&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kavishananjula&theme=tokyonight&utcOffset=8" />
+
+<br/><br/>
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kavishananjula&theme=onedark&no-frame=false&no-bg=true&margin-w=4&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kavishananjula&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
 </a>
 
 </div>
