@@ -47,10 +47,9 @@ PROJECT_LINK_4 = https://github.com/Kavishananjula/your-project-4
 </div>
 
 ---
-
 ## ✨ About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding animation"/>
 
 - 💻 Software Engineering Graduate  
 - 🎨 Passionate UI/UX Designer  
@@ -73,7 +72,6 @@ PROJECT_LINK_4 = https://github.com/Kavishananjula/your-project-4
 | **Focus** | Modern web apps, mobile apps, performance, design systems |
 
 <br clear="right"/>
-
 ---
 
 ## 🚀 What I Do
