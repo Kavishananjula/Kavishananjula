@@ -134,30 +134,28 @@ PROJECT_LINK_4 = https://github.com/Kavishananjula/your-project-4
 
 <br/>
 
-<table align="center">
+<table>
 <tr>
-<td width="50%">
-<div align="center">
+<td width="50%" valign="top">
 
 <a href="PROJECT_LINK_1" target="_blank">
   <img src="https://raw.githubusercontent.com/Kavishananjula/Kavishananjula/main/assets/projects/isurueats.png" width="100%" alt="IsuruEats" />
 </a>
 
-<h3>🍽️ IsuruEats</h3>
+### 🍽️ IsuruEats
 
-<p><b>Restaurant Ordering Platform</b></p>
+**Restaurant Ordering Platform**
 
 <p>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=white" />
 </p>
 
 <details>
 <summary><b>📖 View Details</b></summary>
 <br/>
-<p align="left">
 
 ✨ Online Ordering System  
 ✨ Admin Dashboard  
@@ -165,7 +163,6 @@ PROJECT_LINK_4 = https://github.com/Kavishananjula/your-project-4
 ✨ Modern Responsive UI  
 ✨ Payment Integration Ready  
 
-</p>
 </details>
 
 <br/>
@@ -177,31 +174,28 @@ PROJECT_LINK_4 = https://github.com/Kavishananjula/your-project-4
   <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
 </td>
 
-<td width="50%">
-<div align="center">
+<td width="50%" valign="top">
 
 <a href="PROJECT_LINK_2" target="_blank">
   <img src="https://raw.githubusercontent.com/Kavishananjula/Kavishananjula/main/assets/projects/luxury-srilanka.png" width="100%" alt="Luxury Sri Lanka" />
 </a>
 
-<h3>🌴 Luxury Sri Lanka</h3>
+### 🌴 Luxury Sri Lanka
 
-<p><b>Luxury Travel & Tourism Website</b></p>
+**Luxury Travel & Tourism Website**
 
 <p>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=white" />
 </p>
 
 <details>
 <summary><b>📖 View Details</b></summary>
 <br/>
-<p align="left">
 
 ✨ Premium UI Design  
 ✨ Hotel Booking Features  
@@ -209,7 +203,6 @@ PROJECT_LINK_4 = https://github.com/Kavishananjula/your-project-4
 ✨ Interactive Experience  
 ✨ Fully Responsive  
 
-</p>
 </details>
 
 <br/>
@@ -221,37 +214,34 @@ PROJECT_LINK_4 = https://github.com/Kavishananjula/your-project-4
   <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
 </td>
 </tr>
 
 <tr>
-<td colspan="2"><br/></td>
+<td colspan="2"><br/><br/></td>
 </tr>
 
 <tr>
-<td width="50%">
-<div align="center">
+<td width="50%" valign="top">
 
 <a href="PROJECT_LINK_3" target="_blank">
   <img src="https://raw.githubusercontent.com/Kavishananjula/Kavishananjula/main/assets/projects/wildtrack-safari.png" width="100%" alt="WildTrack Safari" />
 </a>
 
-<h3>🦁 WildTrack Safari</h3>
+### 🦁 WildTrack Safari
 
-<p><b>Safari Booking Platform</b></p>
+**Safari Booking Platform**
 
 <p>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-0D1117?style=flat-square&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
 <details>
 <summary><b>📖 View Details</b></summary>
 <br/>
-<p align="left">
 
 ✨ Safari Packages  
 ✨ Wildlife Tour Booking  
@@ -259,7 +249,6 @@ PROJECT_LINK_4 = https://github.com/Kavishananjula/your-project-4
 ✨ Responsive Layout  
 ✨ Gallery Showcase  
 
-</p>
 </details>
 
 <br/>
@@ -271,31 +260,28 @@ PROJECT_LINK_4 = https://github.com/Kavishananjula/your-project-4
   <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
 </td>
 
-<td width="50%">
-<div align="center">
+<td width="50%" valign="top">
 
 <a href="PROJECT_LINK_4" target="_blank">
   <img src="https://raw.githubusercontent.com/Kavishananjula/Kavishananjula/main/assets/projects/portfolio.png" width="100%" alt="Personal Portfolio" />
 </a>
 
-<h3>💼 Personal Portfolio</h3>
+### 💼 Personal Portfolio
 
-<p><b>Professional Portfolio Website</b></p>
+**Professional Portfolio Website**
 
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
 <details>
 <summary><b>📖 View Details</b></summary>
 <br/>
-<p align="left">
 
 ✨ Modern UI Design  
 ✨ Responsive Layout  
@@ -303,7 +289,6 @@ PROJECT_LINK_4 = https://github.com/Kavishananjula/your-project-4
 ✨ Contact Integration  
 ✨ Smooth Animations  
 
-</p>
 </details>
 
 <br/>
@@ -315,7 +300,6 @@ PROJECT_LINK_4 = https://github.com/Kavishananjula/your-project-4
   <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
 </td>
 </tr>
 </table>
@@ -330,6 +314,7 @@ PROJECT_LINK_4 = https://github.com/Kavishananjula/your-project-4
 
 </div>
 
+---
 ## 📈 Contribution Activity
 
 <div align="center">
